@@ -1,6 +1,6 @@
 # Bytes.co Alpine envsubst
 
-A no-frills Alpine envsubst container. Currently based on Alpine 3.16.
+A no-frills Alpine envsubst container. Currently based on Alpine 3.17.
 
 ## Example Usage
 ```bash
